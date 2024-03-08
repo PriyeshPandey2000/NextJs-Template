@@ -1,3 +1,12 @@
+I you want to create a NextJs project this project conatains important dependencies .  It is initialised with js ,tailwind and also contains prettier for uniformity.  
+USAGE-  
+Click use this template in top right corner of repo and you can have your new repo with this code and and you changes will be accounted in your new repo.
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
